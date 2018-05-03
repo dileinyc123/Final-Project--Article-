@@ -1,0 +1,33 @@
+img {
+	width: 575px;
+}
+
+body {
+	margin: auto 350px auto 350px;
+}x
+
+h1 {font-family:georgia;
+	font-size: 900%;
+}
+
+h5{font-family:arial;
+
+}
+
+h4{
+	font-family: arial;
+}
+
+h6{
+	font-size:14px;
+	color: gray;
+	font-family: times;
+}
+p{font-family:times;
+}
+
+ @media only screen 
+and (min-device-width : 100%) 
+and (max-device-width : 200%) 
+} /*media query*/
+
